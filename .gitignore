@@ -1,0 +1,5 @@
+*.html
+*.tmp
+*.o
+*.out
+*.doxyfile
